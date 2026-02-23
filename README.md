@@ -2,6 +2,8 @@
 
 Arduino library for scheduling a PWM-controlled light with configurable on/off times and a gradual sunset dimming effect.
 
+**Created by [Gonçalo Torres](https://github.com/IAMTorres)**
+
 ## What it does
 
 - Turns a light **on at full brightness** at a configured time
@@ -151,6 +153,10 @@ At `offTime` the library begins a linear fade from PWM 255 to 0 over `dimDuratio
 ## Origin
 
 This library was extracted and generalised from a personal project — a presence light built for a family member's bird that needed consistent daylight cycles. See [arduino-bird-light](https://github.com/IAMTorres/arduino-bird-light) for the original hardware project.
+
+## Author
+
+**Gonçalo Torres** — [github.com/IAMTorres](https://github.com/IAMTorres)
 
 ## License
 

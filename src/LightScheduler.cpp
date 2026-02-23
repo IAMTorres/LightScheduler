@@ -1,3 +1,12 @@
+/**
+ * LightScheduler.cpp
+ *
+ * Created by Gonçalo Torres (https://github.com/IAMTorres)
+ * https://github.com/IAMTorres/LightScheduler
+ *
+ * MIT License
+ */
+
 #include "LightScheduler.h"
 
 LightScheduler::LightScheduler(int pwmPin, uint16_t dimDurationMinutes) {

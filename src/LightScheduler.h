@@ -1,3 +1,12 @@
+/**
+ * LightScheduler.h
+ *
+ * Created by Gonçalo Torres (https://github.com/IAMTorres)
+ * https://github.com/IAMTorres/LightScheduler
+ *
+ * MIT License
+ */
+
 #ifndef LightScheduler_h
 #define LightScheduler_h
 
