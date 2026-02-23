@@ -150,6 +150,13 @@ At `offTime` the library begins a linear fade from PWM 255 to 0 over `dimDuratio
 - Indoor plant grow lights
 - Greenhouse automation
 
+## Used In
+
+| Project | Description |
+|---------|-------------|
+| [arduino-bird-light](https://github.com/IAMTorres/arduino-bird-light) | Original bird presence light — DS1302 RTC, L298N motor driver, 16x2 LCD, 2-button menu, EEPROM persistence |
+| [arduino-bird-light-v2](https://github.com/IAMTorres/arduino-bird-light-v2) | Rebuilt with state machine menu, always-visible status screen, separate hour/minute config and hold-to-fast-increment |
+
 ## Origin
 
 This library was extracted and generalised from a personal project — a presence light built for a family member's bird that needed consistent daylight cycles. See [arduino-bird-light](https://github.com/IAMTorres/arduino-bird-light) for the original hardware project.
