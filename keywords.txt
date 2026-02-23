@@ -1,0 +1,26 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LightScheduler	KEYWORD1
+ScheduleTime	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setOnTime	KEYWORD2
+setOffTime	KEYWORD2
+setDimDuration	KEYWORD2
+getOnTime	KEYWORD2
+getOffTime	KEYWORD2
+saveToEEPROM	KEYWORD2
+loadFromEEPROM	KEYWORD2
+update	KEYWORD2
+isOn	KEYWORD2
+isDimming	KEYWORD2
+getBrightness	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
